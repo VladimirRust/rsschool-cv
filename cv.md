@@ -31,5 +31,4 @@ print(string * n)
 ```
 ## Languages
 + Russian - native
-+ English - B1 - B2
-
++ English - B1 (B2 - in process)
